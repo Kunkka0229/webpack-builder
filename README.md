@@ -1,2 +1,0 @@
-# webpack-builder
-builder weboack
